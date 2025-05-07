@@ -1,2 +1,2 @@
 # sweets-shop
-html + css
+made by html + css  
